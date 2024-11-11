@@ -30,7 +30,7 @@ The analysis covers several aspects of the video game market, including:
 4. **Genre Popularity:** Examining the popularity of different game genres.
 5. **Top Publishers:** Identifying the top 10 publishers by global sales.
 6. **Global Game Sales Over Time:** Tracking the trends in global game sales over the years.
-7. **Sales Trend Prediction:** Using linear regression to predict future sales trends.
+7. **Sales Trend Prediction:** Using polynomial model and linear regression to predict future sales trends.
 8. **Genre Trends Over Time:** Analyzing sales trends within specific game genres.
 9. **Platform Evolution:** Investigating how the popularity of different gaming platforms has evolved over time.
 10. **Correlation Between Genres and Sales:** Studying the correlation between game genres and sales in different regions.
